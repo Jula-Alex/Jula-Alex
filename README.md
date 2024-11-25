@@ -1,4 +1,3 @@
-Über mich:
   Hallo, ich bin Ioan-Alexandru Jula, aber alle nennen mich Alex – gerne auch ihr! Mein Pseudonym ist OpenYourMind. Ich bin 28 Jahre alt, komme aus Rumänien und habe dank meines Lebenswegs in drei verschiedenen Ländern drei verschiedene Mentalitäten entwickeln können. Ich spreche fließend Deutsch, Rumänisch, Italienisch sowie Englisch auf einem guten, stetig besseren Niveau.
 
 Mein Werdegang:
