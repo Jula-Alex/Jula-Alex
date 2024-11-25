@@ -1,4 +1,4 @@
-  Hallo, ich bin Ioan-Alexandru Jula, aber alle nennen mich Alex – gerne auch ihr! Mein Pseudonym ist OpenYourMind. Ich bin 28 Jahre alt, komme aus Rumänien und habe dank meines Lebenswegs in drei verschiedenen Ländern drei verschiedene Mentalitäten entwickeln können. Ich spreche fließend Deutsch, Rumänisch, Italienisch sowie Englisch auf einem guten, stetig besseren Niveau.
+  Hallo, ich bin Ioan-Alexandru Jula, aber alle nennen mich Alex – gerne auch ihr! Ich bin 28 Jahre alt, komme aus Rumänien und habe dank meines Lebenswegs in drei verschiedenen Ländern gelebt. Ich spreche fließend Deutsch, Rumänisch, Italienisch sowie Englisch auf einem gutem Niveau.
 
 Mein Werdegang:
 
@@ -9,27 +9,27 @@ Mein Werdegang:
 Ausbildung und Berufserfahrungen:
 
     2011 (15 Jahre alt): Beginn meiner Ausbildung als Elektriker in Italien.
-    2012 (16 Jahre alt): Neben meiner Ausbildung wurde ich Kunstturntrainer. Ich startete mit zwei Jungs und leitete innerhalb eines Jahres zwei Gruppen mit insgesamt 15 Jungs.
+    2012 (16 Jahre alt): Neben meiner Ausbildung wurde ich Kunstturntrainer. Ich startete mit zwei Jungs und leitete innerhalb eines Jahres zwei Gruppen mit insgesamt 15 Jugendlichen.
     2014 (18 Jahre alt): Abschluss meiner Elektriker-Ausbildung in Italien. Leider konnte ich in diesem Bereich kein Job finden, da die Jobaussichten selbst für erfahrene Elektriker schwierig waren.
 
 Mein Weg in Deutschland:
 
     2014: Umzug nach Deutschland mit meiner Familie.
-        Erstes Jahr: Tätigkeiten in der Gastronomie und im Trockenbau.
-        Zweites Jahr: Arbeit in einer Schichtfabrik für Verpackungen und Kartons.
-        Danach: Arbeit in einer dreischichtfabrik mit Schwerpunkt auf Kunststofftechnik.
-        Aktuell: Umschulung zum Fachinformatiker Fachrichtung Anwendungsentwicklung
+          Erstes Jahr: Tätigkeiten in der Gastronomie und im Trockenbau.
+          Zweites Jahr: Arbeit in einer Schichtfabrik für Verpackungen und Kartons.
+          Danach: Arbeit in einer dreischichtfabrik mit Schwerpunkt auf Kunststofftechnik.
+          Aktuell: Umschulung zum Fachinformatiker Fachrichtung Anwendungsentwicklung.
 
-Aktuelle Interessen & Ziele:
+Aktuelle Interessen:
 
-    Hobbys: Sport, Fahrradfahren, Gaming, Kino und Sauna zur Entspannung und Meditation.
+    Hobbys: Sport, Fahrradfahren, Gaming, Kino und Sauna zur Entspannung.
     Was ich machen würde wenn ich mehr Zeit hätte:
         Klavier spielen lernen
-        Schach und Billard spielen
+        Schach und Billard 
         
 Meine Ziele:
 
-    Die beste Version meiner selbst zu werden und ein hervorragender Anwendungsentwickler werden
+    Die beste Version meiner selbst zu sein und ein hervorragender Anwendungsentwickler werden.
     
 Motivation:
 
