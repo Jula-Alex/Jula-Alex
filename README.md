@@ -1,5 +1,5 @@
 Über mich:
-  Hallo, ich bin Ioan-Alexandru Jula, aber alle nennen mich Alex – gerne auch ihr! Mein Pseudonym ist OpenYourMind. Ich bin 28 Jahre alt, komme aus Rumänien und habe dank meines Lebenswegs in drei verschiedenen Ländern drei verschiedene Mentalitäten entwickeln können. Ich spreche fließend Deutsch, Rumänisch und Italienisch sowie Englisch auf einem guten, stetig besseren Niveau.
+  Hallo, ich bin Ioan-Alexandru Jula, aber alle nennen mich Alex – gerne auch ihr! Mein Pseudonym ist OpenYourMind. Ich bin 28 Jahre alt, komme aus Rumänien und habe dank meines Lebenswegs in drei verschiedenen Ländern drei verschiedene Mentalitäten entwickeln können. Ich spreche fließend Deutsch, Rumänisch, Italienisch sowie Englisch auf einem guten, stetig besseren Niveau.
 
 Mein Werdegang:
 
@@ -19,7 +19,7 @@ Mein Weg in Deutschland:
         Erstes Jahr: Tätigkeiten in der Gastronomie und im Trockenbau.
         Zweites Jahr: Arbeit in einer Schichtfabrik für Verpackungen und Kartons.
         Danach: Arbeit in einer dreischichtfabrik mit Schwerpunkt auf Kunststofftechnik.
-    Aktuell: Umschulung zum Fachinformatiker Fachrichtung Anwendungsentwicklung
+        Aktuell: Umschulung zum Fachinformatiker Fachrichtung Anwendungsentwicklung
 
 Aktuelle Interessen & Ziele:
 
@@ -34,7 +34,7 @@ Meine Ziele:
     
 Motivation:
 
-    Meine Familie, insbesondere meine zwei Kinder (2 und 3 Jahre alt).
+    Meine Familie, insbesondere meine zwei Kinder (8 Monate und 3 Jahre).
     Der Wunsch nach Selbstentwicklung und persönlicher Perfektion.
     Die hoffnung, eine Chance für hochwertige Bildung zu haben.
 
