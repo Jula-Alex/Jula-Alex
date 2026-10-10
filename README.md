@@ -75,7 +75,7 @@ My personal projects are currently based mainly on:
 
 ## Technologies
 
-Languages: C, C++ *(currently building proficiency in modern C++)*
-Microcontrollers: STM32, Arduino
-Embedded: GPIO, EXTI, Timers, PWM, I²C, SPI, CAN
-Tools: STM32CubeMX, STM32CubeIDE, Git, Logic Analyzer
+- Languages: C, C++ (currently building proficiency in modern C++)
+- Microcontrollers: STM32
+- Embedded: GPIO, EXTI, Timers, PWM, I²C, SPI, CAN
+- Tools: STM32CubeMX, STM32CubeIDE, Git, Logic Analyzer
